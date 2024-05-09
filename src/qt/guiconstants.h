@@ -45,7 +45,7 @@ static const int TOOLTIP_WRAP_THRESHOLD = 80;
 #define QAPP_ORG_NAME "Litecoin"
 #define QAPP_ORG_DOMAIN "litecoin.org"
 #define QAPP_APP_NAME_DEFAULT "Litecoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Liteocin-Qt-testnet"
+#define QAPP_APP_NAME_TESTNET "Litecoin-Qt-testnet"
 #define QAPP_APP_NAME_SIGNET "Litecoin-Qt-signet"
 #define QAPP_APP_NAME_REGTEST "Litecoin-Qt-regtest"
 
