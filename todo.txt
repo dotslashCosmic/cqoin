@@ -1,0 +1,12 @@
+update:
+/.github
+/.tx
+/build_msvc
+/build_aux
+/ci
+/contrib
+/depends
+/doc
+/share
+/srctest
+all 18 files
